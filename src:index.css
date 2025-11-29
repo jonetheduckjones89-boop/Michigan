@@ -1,10 +1,6 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Custom font and body styles */
 body {
-  font-family: 'Inter', sans-serif;
   margin: 0;
   padding: 0;
+  background: #f5f5f5;
+  font-family: Arial, sans-serif;
 }
